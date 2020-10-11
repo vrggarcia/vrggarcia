@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi there 👋
+
+## About me
+
+⚡ 3rd year BSIT student from Guimbal.
+
+🎶 I love music.
+
+📌 Choose your battles wisely.
+
+*veronica*
 
 <!--
 **vrggarcia/vrggarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
